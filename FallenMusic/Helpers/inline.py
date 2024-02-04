@@ -74,7 +74,7 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="• سوࢪس تيـتو •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس مـافيا •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
